@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Create Playlist"
+        app:showAsAction="always"
+        android:onClick="onCreatePlaylist"/>
+    <item android:title="Clear Selection"
+        app:showAsAction="ifRoom"
+        android:onClick="onClearSelection"/>
+    <item android:title="Invert Selections"
+        app:showAsAction="ifRoom"
+        android:onClick="onInvertSelection"/>
+    <item android:title="Select All"
+        app:showAsAction="ifRoom"
+        android:onClick="onSelectAll"/>
+</menu>

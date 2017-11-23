@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">amegha3_project2</string>
+    <string-array name="songNames">
+        <item>Drake - One Dance</item>
+        <item>Eminem - Campaign Speech</item>
+        <item>Utada Hikaru - Sanctuary</item>
+        <item>Green Day - Boulevard of Broken Dreams</item>
+        <item>Bullet For My Valentine - Your Betrayal</item>
+        <item>Breaking Benjamin - Diary of Jane</item>
+    </string-array>
+
+    <string-array name="songLinks">
+        <item>https://www.youtube.com/watch?v=21mDUEC5p_U</item>
+        <item>https://www.youtube.com/watch?v=ijJj86NPaq8</item>
+        <item>https://www.youtube.com/watch?v=ytVIHARbuK4</item>
+        <item>https://www.youtube.com/watch?v=5kRtBIQmy4g</item>
+        <item>https://www.youtube.com/watch?v=6XEPXYwd0yY</item>
+        <item>https://www.youtube.com/watch?v=AiBG6vuLrzY</item>
+    </string-array>
+
+    <string-array name="artistLinks">
+        <item>https://en.wikipedia.org/wiki/Drake_(musician)</item>
+        <item>https://en.wikipedia.org/wiki/Eminem</item>
+        <item>https://en.wikipedia.org/wiki/Utada_Hikaru</item>
+        <item>https://en.wikipedia.org/wiki/Green_Day</item>
+        <item>https://en.wikipedia.org/wiki/Bullet_for_My_Valentine</item>
+        <item>https://en.wikipedia.org/wiki/Breaking_Benjamin</item>
+    </string-array>
+
+    <string-array name="songInfoLinks">
+        <item>https://en.wikipedia.org/wiki/One_Dance</item>
+        <item>https://en.wikipedia.org/wiki/Campaign_Speech</item>
+        <item>https://en.wikipedia.org/wiki/Passion_(Utada_Hikaru_song)</item>
+        <item>https://en.wikipedia.org/wiki/Boulevard_of_Broken_Dreams_(Green_Day_song)</item>
+        <item>https://en.wikipedia.org/wiki/Your_Betrayal</item>
+        <item>https://en.wikipedia.org/wiki/The_Diary_of_Jane</item>
+    </string-array>
+
+    <integer-array name="thumbnails">
+        <item>@drawable/image1</item>
+        <item>@drawable/image2</item>
+        <item>@drawable/image3</item>
+        <item>@drawable/image4</item>
+        <item>@drawable/image5</item>
+        <item>@drawable/image6</item>
+    </integer-array>
+</resources>
